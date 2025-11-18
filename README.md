@@ -1,5 +1,10 @@
 # Opera-es-Portas-Logicas-em-sa-da-Java
 Operações Portas Logicas em saída Java
+
+
+
+            
+[OperacoesLogicas.java](https://github.com/user-attachments/files/23614825/OperacoesLogicas.java)
 import java.util.Scanner;
 
 public class OperacoesLogicas {
